@@ -29,8 +29,13 @@ To design and develop an ATM & Banking System that allows users to perform basic
 
 
 
+
+
 ## ACTIVITY DIAGRAM
-<img width="993" height="1020" alt="image" src="https://github.com/user-attachments/assets/d1bc17f0-8674-4aa7-93ac-1d429378823d" />
+<img width="798" height="995" alt="Screenshot 2026-02-10 141301" src="https://github.com/user-attachments/assets/fe4bb0f9-3bfb-40c8-94a7-ee47026556a8" />
+
+
+
 
 
 
